@@ -1,0 +1,8 @@
+{
+  "ownerId": "github-20480013",
+  "slug": "This-has-code",
+  "title": "This has code",
+  "content": "Here's a blog post with some code:\n\n```\nfunction addTogether(a, b) {\n    return a + b;\n}\n```\n\nIt's a simple function which adds two numbers.",
+  "createdAt": 1612796225605,
+  "updatedAt": 1612796225605
+}
