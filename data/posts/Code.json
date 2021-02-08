@@ -1,0 +1,8 @@
+{
+  "ownerId": "github-20480013",
+  "slug": "Code",
+  "title": "Code",
+  "content": "<pre>\nfunction thisIsATestFn(params) {\n  return params\n}\n</pre>",
+  "createdAt": 1612795920369,
+  "updatedAt": 1612795920369
+}
